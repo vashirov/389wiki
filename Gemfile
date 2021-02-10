@@ -14,4 +14,5 @@ gem 'stringex'
 gem 'rack', "~>2.1.4"
 gem 'rack-rewrite'
 gem 'puma'
+gem "github-pages", "~> 211", group: :jekyll_plugins
 
